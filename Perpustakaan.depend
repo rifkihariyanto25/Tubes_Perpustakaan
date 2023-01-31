@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1674706189 source:d:\kuliah\semester 1\algoritma dan pemrograman\tugas besar\final tugas besar\perpustakaan\fungsi.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"struct.h"
+
+1674697710 d:\kuliah\semester 1\algoritma dan pemrograman\tugas besar\final tugas besar\perpustakaan\struct.h
+	<string>
+	<vector>
+
+1674705246 source:d:\kuliah\semester 1\algoritma dan pemrograman\tugas besar\final tugas besar\perpustakaan\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"struct.h"
+
